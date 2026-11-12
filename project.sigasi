@@ -1,0 +1,10 @@
+{
+    "name": "riscv-cpu-team4",
+    "targets": {
+        "rtl": {
+            "libraryMapping": {
+                "": "work"
+            }
+        }
+    }
+}

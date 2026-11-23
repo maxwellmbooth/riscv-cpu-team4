@@ -1,2 +1,6 @@
 # Sigasi
 .sigasi/generated
+
+obj_dir/
+*.vcd
+tb/test_out/
